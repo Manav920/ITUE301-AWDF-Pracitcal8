@@ -87,8 +87,8 @@ function TaskManager() {
   // Auth Form State
   const [isRegistering, setIsRegistering] = useState(false);
   const [authForm, setAuthForm] = useState({
-    name: 'Parth Patel',
-    email: '24cs069@charusat.edu.in',
+    name: 'Manav Lathiya',
+    email: '24cs048@charusat.edu.in',
     password: 'password123',
   });
   const [authLoading, setAuthLoading] = useState(false);
@@ -198,8 +198,8 @@ function TaskManager() {
 
   const fillDemoCredentials = () => {
     setAuthForm({
-      name: 'Parth Patel',
-      email: '24cs069@charusat.edu.in',
+      name: 'Manav Lathiya',
+      email: '24cs048@charusat.edu.in',
       password: 'password123',
     });
     setIsRegistering(false);

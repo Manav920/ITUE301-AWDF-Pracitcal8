@@ -1,5 +1,5 @@
 {
-  "name": "task-manager-jwt-auth-24cs069",
+  "name": "task-manager-jwt-auth-24cs048",
   "version": "1.0.0",
   "description": "JWT-Based Authentication and Middleware Pipeline - Practical 7",
   "scripts": {
@@ -8,6 +8,6 @@
     "install:all": "cd backend && npm install && cd ../frontend && npm install"
   },
   "keywords": ["jwt", "bcrypt", "authentication", "middleware", "express", "react", "itue301"],
-  "author": "Parth Patel (24CS069)",
+  "author": "Manav Lathiya (24CS048)",
   "license": "ISC"
 }

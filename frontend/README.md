@@ -2,8 +2,8 @@
 ## Practical 3: API Integration and Data Rendering in React
 
 ### Student Details
-- **Student ID:** 24CS069
-- **Student Name:** Parth Patel
+- **Student ID:** 24CS048
+- **Student Name:** Manav Lathiya
 - **Subject Code & Name:** CSE304 / ITUE301: Advanced Web Development Frameworks
 - **Department:** Department of Computer Science and Engineering
 - **Institution:** Chandubhai S Patel Institute of Technology (CSPIT), CHARUSAT
@@ -34,7 +34,7 @@ Projects.jsx
 
 ### API Details & Endpoints
 - **Public REST API:** GitHub REST API v3
-- **Primary Endpoint:** `https://api.github.com/users/24CS069Parth/repos?sort=updated&per_page=30`
+- **Primary Endpoint:** `https://api.github.com/users/24CS048Manav/repos?sort=updated&per_page=30`
 - **Authentication:** Unauthenticated public rate limit (60 requests/hour)
 - **Features Tested:**
   1. **Loading State:** CSS animated circular spinner displayed while promise is pending.
@@ -53,7 +53,7 @@ Projects.jsx
 #### Installation & Execution
 ```bash
 # 1. Clone repository
-git clone https://github.com/24CS069Parth/ITUE301-AWDF_Practical3.git
+git clone https://github.com/24CS048Manav/ITUE301-AWDF_Practical3.git
 cd ITUE301-AWDF_Practical3
 
 # 2. Install dependencies

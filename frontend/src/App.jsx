@@ -25,13 +25,13 @@ function App() {
 
   // Student and academic portfolio data
   const studentInfo = {
-    name: 'Parth Patel',
-    id: '24CS069',
+    name: 'Manav Lathiya',
+    id: '24CS048',
     department: 'Department of Computer Science and Engineering',
     institution: 'Chandubhai S Patel Institute of Technology (CSPIT), CHARUSAT',
     academicYear: '2025-26',
-    email: '24cs069@charusat.edu.in',
-    githubUrl: 'https://github.com/24CS069Parth',
+    email: '24cs048@charusat.edu.in',
+    githubUrl: 'https://github.com/24CS048Manav',
     bio: 'Third-year B.Tech Computer Science and Engineering student at CSPIT, Charusat. Passionate about modern web architecture, component-driven design, and building scalable full-stack web applications. Currently mastering React, Vite, Node.js, and advanced development frameworks through hands-on coursework.',
   };
 

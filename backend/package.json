@@ -1,5 +1,5 @@
 {
-  "name": "task-manager-mongodb-24cs069",
+  "name": "task-manager-mongodb-24cs048",
   "version": "1.0.0",
   "description": "MongoDB Integration and Schema Design with Mongoose - Practical 5",
   "main": "server.js",
@@ -15,7 +15,7 @@
     "crud",
     "itue301"
   ],
-  "author": "Parth Patel (24CS069)",
+  "author": "Manav Lathiya (24CS048)",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.3",
